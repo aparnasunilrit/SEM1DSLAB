@@ -1,4 +1,4 @@
-
+//finding the minimum cost spanning tree
 #include <stdio.h>
 
 int a, b, u, v, n, i, j, ne = 1;
